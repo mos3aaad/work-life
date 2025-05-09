@@ -18,7 +18,7 @@ Work & Life is a text-based life simulation game where players experience the da
    cd work-life
    
    --Running the game--
-   python main.py
+   python index.py
 
 ## Lessons Learned
 Through developing this game, we gained valuable experience with:
